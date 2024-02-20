@@ -18,7 +18,7 @@ Welcome to Park It Perfect, a captivating 2D mobile game where you guide cars to
 2. **Draw the Path**: Use your finger to draw a smooth path from the car's starting point to its designated parking space, avoiding obstacles and adhering to traffic rules.
 3. **Reach the Goal**: If the car successfully reaches its parking space without hitting any obstacles, you win the level!
 
-#### Challenges to Overcome
+### Challenges to Overcome
 
 - **Limited Space**: Navigate tight turns and maneuver around parked cars to find the optimal path.
 - **Obstacles**: Avoid cones, barriers, and other obstacles that obstruct your path.
