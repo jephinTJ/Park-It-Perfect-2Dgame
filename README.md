@@ -1,6 +1,12 @@
 # Park-It-Perfect-2Dgame
 #### A Fun and Challenging Car Parking Game
 
+
+
+https://github.com/jephinTJ/Park-It-Perfect-2Dgame/assets/142671149/ffdcc051-bf8d-42c2-a2ec-c69c801a5a9e
+
+
+
 ### Introduction
 
 Welcome to Park It Perfect, a captivating 2D mobile game where you guide cars to their parking spots through challenging and engaging levels. Designed by Jephin during my internship at Mindyourlogic Studios as a Game Designer and Data Analyst, Park It Perfect combines intuitive touch controls with strategic path drawing to provide a rewarding gameplay experience for all ages.
@@ -52,3 +58,6 @@ I hope you have a fantastic time playing Park It Perfect! Please feel free to le
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
 
 #### [Jephin](https://github.com/jephinTJ)
+
+![Home](https://github.com/jephinTJ/Park-It-Perfect-2Dgame/assets/142671149/8928ae6b-b250-44fd-83aa-9dbf2e874c8f)
+![Levels](https://github.com/jephinTJ/Park-It-Perfect-2Dgame/assets/142671149/da1a96a5-2217-4fdf-8348-f52405090703)
