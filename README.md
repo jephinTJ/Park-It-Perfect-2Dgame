@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Welcome to Park It Perfect, a captivating 2D mobile game where you guide cars to their parking spots through challenging and engaging levels. Designed by [Your Name] during your internship at Mindyourlogic Studios as a Game Designer and Data Analyst, Park It Perfect combines intuitive touch controls with strategic path drawing to provide a rewarding gameplay experience for all ages.
+Welcome to Park It Perfect, a captivating 2D mobile game where you guide cars to their parking spots through challenging and engaging levels. Designed by Jephin during my internship at Mindyourlogic Studios as a Game Designer and Data Analyst, Park It Perfect combines intuitive touch controls with strategic path drawing to provide a rewarding gameplay experience for all ages.
 
 ### Key Features
 
@@ -30,8 +30,6 @@ Welcome to Park It Perfect, a captivating 2D mobile game where you guide cars to
 - **Art Assets**: Created in Adobe Illustrator and Photoshop for a visually appealing aesthetic.
 
 ### Contributing
-
-While this initial release was designed primarily by [Jephin T J](https://github.com/jephinTJ), I welcome contributions from the community!
 
 - **Report Bugs**: Please submit any issues you encounter through the GitHub issue tracker so we can address them promptly.
 - **Contribute Code**: If you're a Unity developer and wish to enhance the game or fix bugs, please fork the repository and submit pull requests with your changes.
