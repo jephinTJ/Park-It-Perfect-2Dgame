@@ -59,7 +59,5 @@ This project is licensed under the [MIT License](https://github.com/git/git-scm.
 
 #### [Jephin](https://github.com/jephinTJ)
 
-![Home](https://github.com/jephinTJ/Park-It-Perfect-2Dgame/assets/142671149/8928ae6b-b250-44fd-83aa-9dbf2e874c8f)
 <img width="162" alt="ls" src="https://github.com/jephinTJ/Park-It-Perfect-2Dgame/assets/142671149/8928ae6b-b250-44fd-83aa-9dbf2e874c8f">
 <img width="162" alt="ls" src="https://github.com/jephinTJ/Park-It-Perfect-2Dgame/assets/142671149/da1a96a5-2217-4fdf-8348-f52405090703">
-![Levels](https://github.com/jephinTJ/Park-It-Perfect-2Dgame/assets/142671149/da1a96a5-2217-4fdf-8348-f52405090703)
