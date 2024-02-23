@@ -4,15 +4,15 @@
 ![11](https://github.com/jephinTJ/Park-It-Perfect-2Dgame/assets/142671149/94a31b9c-4e83-47f3-a812-c60ff828c269)
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Key Features](#key-features)
-- [Gameplay](#gameplay)
-- [Challenges to Overcome](#challenges-to-overcome)
-- [Tools and Technologies](#tools-and-technologies)
-- [Contributing](#contributing)
-- [Downloads](#downloads)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+- [*Introduction*](#introduction)
+- [*Key Features*](#key-features)
+- [*Gameplay*](#gameplay)
+- [*Challenges to Overcome*](#challenges-to-overcome)
+- [*Tools and Technologies*](#tools-and-technologies)
+- [*Contributing*](#contributing)
+- [*Downloads*](#downloads)
+- [*Acknowledgements*](#acknowledgements)
+- [*License*](#license)
 
 ## Introduction
 
